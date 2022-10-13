@@ -2,4 +2,6 @@ face book code
 
 1.create the profile
 
-2. Updating the status
+2. Updating the statu
+
+3. Update the facebook story
